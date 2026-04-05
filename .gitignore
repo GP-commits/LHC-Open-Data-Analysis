@@ -1,0 +1,15 @@
+# Environments
+venv/
+env/
+.env
+
+# Data
+data/
+*.root
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
